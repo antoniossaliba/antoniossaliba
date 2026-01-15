@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/antonios-saliba-070a19299/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img
       src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=LinkedIn&logoColor=blue"
-      alt="LinkedIn" />
+      alt="LinkedIn followers" />
   </a>
 
   <a href="https://discord.gg/DRhKZafd" target="_blank" rel="noopener noreferrer" title="Discord">
