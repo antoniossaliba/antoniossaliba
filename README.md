@@ -24,7 +24,7 @@
 
   <a href="https://www.linkedin.com/in/antonios-saliba-070a19299/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img
-      src="https://img.shields.io/badge/antonios-saliba-070a19299?style=flat-square&logo=LinkedIn&logoColor=blue"
+      src="https://img.shields.io/badge/LinkedIn-Profile?style=flat-square&logo=LinkedIn&logoColor=blue"
       alt="LinkedIn" />
   </a>
 
