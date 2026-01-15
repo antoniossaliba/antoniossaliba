@@ -1,5 +1,9 @@
 <div align="center">
 
+  💫 🧙‍♂️ 💫
+
+  <hr>
+
   <a href="https://www.youtube.com/@offbyone.stream" target="_blank" rel="noopener noreferrer" title="YouTube">
     <img
       src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=flat-square&logo=youtube&logoColor=white&color=FF0000"
@@ -11,6 +15,8 @@
       src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=flat-square&logo=twitter&logoColor=white&color=1DA1F2"
       alt="Twitter followers" />
   </a>
+
+  <hr>
 
   <a href="https://github.com/antoniossaliba" target="_blank" rel="noopener noreferrer" title="GitHub">
     <img
@@ -30,10 +36,16 @@
       alt="Discord members" />
   </a>
 
+  <hr>
+
   <a href="mailto:antoniosjsaliba@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
     <img
       src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"
       alt="Email" />
   </a>
+
+  <hr>
+
+  💫 💫
 
 </div>
