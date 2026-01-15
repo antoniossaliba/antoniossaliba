@@ -1,24 +1,20 @@
-<html>
-  <body>
-    <table width="100%">
-      <tr>
-        <td width="50%">
-          <br />
-          <p align="center">
-            💫 🧙‍♂️ 💫
-            <br />
-            <a href="https://www.youtube.com/@offbyone.stream" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC6iKOXJ9PD-n8DcFPBjLD0w?label=Youtube%20subscribers&style=flat-square" /></a>
-            <br />
-            <a href="https://discord.com/invite/36sfUckS" target="_blank"><img src="https://img.shields.io/discord/853396660331085824.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" /></a>
-            <a href="https://x.com/OffByOneStream" target="_blank"><img src="https://img.shields.io/twitter/follow/bassemdy?label=Twitter&style=social" /></a>
-            <a href="https://www.linkedin.com/in/antonios-saliba-070a19299/" target="_blank"><img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" /></a>
-            <br />
-            <a href="https://keybase.io/bassemdy" target="_blank"><img src="https://img.shields.io/keybase/pgp/bassemdy?style=flat-square" /></a>
-            <br />
-            <a href="https://linktr.ee/antoniossaliba" target="_blank">💫 offbyone.stream 💫</a>
-          </p>
-        </td>
-      </tr>
-    </table>  
-  </body>
-</html>
+# Hi 👋
+
+## Connect & stats
+
+- Website: [your-website.example](https://your-website.example)
+- Subscribe:  
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?label=YouTube&style=for-the-badge" alt="YouTube subscribers" />
+  </a>
+- Follow:  
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?label=Twitter&style=for-the-badge" alt="Twitter follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+- Chat:  
+  <a href="https://discord.gg/YOUR_INVITE" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/discord/000000000000000000?label=Discord&style=for-the-badge&logo=discord" alt="Discord" />
+  </a>
