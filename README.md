@@ -10,7 +10,7 @@
 
   <a href="https://x.com/OffByOneStream" target="_blank" rel="noopener noreferrer" title="Twitter">
     <img
-      src="https://img.shields.io/twitter/follow/OffByOneStream?style=flat-square&logo=twitter&logoColor=white&color=1DA1F2"
+      src="https://img.shields.io/twitter/follow/OffByOneStream?style=flat-square&logo=X&logoColor=white&color=1DA1F2"
       alt="Twitter followers" />
   </a>
 
