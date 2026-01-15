@@ -4,7 +4,7 @@
 
   <a href="https://www.youtube.com/@offbyone.stream" target="_blank" rel="noopener noreferrer" title="YouTube">
     <img
-      src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=flat-square&logo=youtube&logoColor=white&color=FF0000"
+      src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=flat-square&logo=youtube&logoColor=red&color=FF0000"
       alt="YouTube subscribers" />
   </a>
 
