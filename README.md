@@ -8,7 +8,7 @@
       alt="YouTube subscribers" />
   </a>
 
-  <a href="https://x.com/OffByOneStream" target="_blank" rel="noopener noreferrer" title="Twitter">
+  <a href="https://x.com/OffByOneStream" target="_blank" rel="noopener noreferrer" title="X">
     <img
       src="https://img.shields.io/twitter/follow/OffByOneStream?style=flat-square&logo=X&logoColor=white&color=1DA1F2"
       alt="Twitter followers" />
@@ -28,7 +28,7 @@
       alt="LinkedIn" />
   </a>
 
-  <a href="https://discord.gg/DRhKZafd" target="_blank" rel="noopener noreferrer" title="Discord (member count shown)">
+  <a href="https://discord.gg/DRhKZafd" target="_blank" rel="noopener noreferrer" title="Discord">
     <img
       src="https://img.shields.io/discord/1452389289525510403?style=flat-square&logo=discord&color=5865F2"
       alt="Discord members" />
@@ -38,7 +38,7 @@
 
   <a href="mailto:antoniosjsaliba@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
     <img
-      src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&color=EA4335"
       alt="Email" />
   </a>
 
