@@ -2,7 +2,7 @@
 
   💫 🧙‍♂️ 💫
 
-  <hr>
+  <br>
 
   <a href="https://www.youtube.com/@offbyone.stream" target="_blank" rel="noopener noreferrer" title="YouTube">
     <img
@@ -16,7 +16,7 @@
       alt="Twitter followers" />
   </a>
 
-  <hr>
+  <br>
 
   <a href="https://github.com/antoniossaliba" target="_blank" rel="noopener noreferrer" title="GitHub">
     <img
@@ -36,7 +36,7 @@
       alt="Discord members" />
   </a>
 
-  <hr>
+  <br>
 
   <a href="mailto:antoniosjsaliba@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
     <img
@@ -44,7 +44,7 @@
       alt="Email" />
   </a>
 
-  <hr>
+  <br>
 
   💫 💫
 
