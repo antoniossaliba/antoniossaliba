@@ -24,13 +24,13 @@
 
   <a href="https://www.linkedin.com/in/antonios-saliba-070a19299/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"
+      src="https://img.shields.io/badge/antonios-saliba-070a19299?style=flat-square&logo=LinkedIn&logoColor=blue"
       alt="LinkedIn" />
   </a>
 
   <a href="https://discord.gg/DRhKZafd" target="_blank" rel="noopener noreferrer" title="Discord (member count shown)">
     <img
-      src="https://img.shields.io/discord/000000000000000000?style=flat-square&logo=discord&logoColor=blue&color=5865F2"
+      src="https://img.shields.io/discord/000000000000000000?style=flat-square&logo=discord&logoColor=white&color=5865F2"
       alt="Discord members" />
   </a>
 
