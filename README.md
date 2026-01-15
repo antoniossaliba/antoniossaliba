@@ -30,7 +30,7 @@
 
   <a href="https://discord.gg/DRhKZafd" target="_blank" rel="noopener noreferrer" title="Discord (member count shown)">
     <img
-      src="https://img.shields.io/discord/1452389289525510403?style=flat-square&logo=discord&logoColor=white&color=5865F2"
+      src="https://img.shields.io/discord/1452389289525510403?style=flat-square&logo=discord&color=5865F2"
       alt="Discord members" />
   </a>
 
